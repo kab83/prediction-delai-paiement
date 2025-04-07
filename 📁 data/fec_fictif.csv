@@ -1,6 +1,0 @@
-EcritureDate,CompteNum,CompAuxNum,JournalLib,Libelle,Debit,Credit,DatePaiementClient
-2023-01-15,4110001,C001,VE,Vente Client A,1000,0,2023-02-15
-2023-01-20,4110002,C002,VE,Vente Client B,1500,0,2023-03-05
-2023-02-01,4110001,C001,VE,Vente Client A,500,0,2023-03-01
-2023-02-10,4110003,C003,VE,Vente Client C,2000,0,2023-02-25
-
