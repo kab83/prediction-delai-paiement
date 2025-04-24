@@ -41,7 +41,7 @@ Ce notebook Jupyter présente toutes les étapes de travail :
   - R² : ~0.009 *(modèle de base, améliorable)*
 - **Visualisation des résultats** :
 
-  ![Prédiction vs Réel](data/img/prediction_vs_reel.png)
+  ![Prédiction vs Réel](prediction_vs_reel.png)
 
 ---
 
@@ -54,7 +54,7 @@ Ce projet comprend aussi un **extrait visuel d’un dashboard** Power BI réalis
 - Indicateurs de gestion
 - Analyse par journaux ou périodes
 
-![Aperçu Dashboard Power BI](data/img/dashboard_preview.png)
+![Aperçu Dashboard Power BI](./data/dashboard.png)
 
 ---
 
@@ -80,8 +80,7 @@ Ce projet comprend aussi un **extrait visuel d’un dashboard** Power BI réalis
 
 **Kevin Boucetta**  
 🎓 Data Analyst en alternance chez Fidaco (cabinet d’audit)  
-📍 Basé à Antibes (France)  
-🔗 [GitHub](https://github.com/kevinboucetta)  
+📍 Basé à Angers (France)   
 🔗 [LinkedIn](https://linkedin.com/in/kevinboucetta)
 
 ---
