@@ -81,7 +81,7 @@ Ce projet comprend aussi un **extrait visuel d’un dashboard** Power BI réalis
 **Kevin Boucetta**  
 🎓 Data Analyst en alternance chez Fidaco (cabinet d’audit)  
 📍 Basé à Angers (France)   
-🔗 [LinkedIn](https://linkedin.com/in/kevinboucetta)
+🔗 [LinkedIn](www.linkedin.com/in/kevinboucetta)
 
 ---
 
