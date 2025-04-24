@@ -54,7 +54,7 @@ Ce projet comprend aussi un **extrait visuel d’un dashboard** Power BI réalis
 - Indicateurs de gestion
 - Analyse par journaux ou périodes
 
-![Aperçu Dashboard Power BI](📁%20data/dashboard.png)
+![Aperçu Dashboard Power BI](📁%20data/Dashboard.png)
 
 ---
 
