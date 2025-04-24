@@ -25,7 +25,7 @@ Ce dépôt GitHub regroupe deux volets complémentaires autour de la **valorisat
 
 ## 🔬 1. Projet de prédiction du délai de paiement
 
-Notebook principal : [`prediction_delai_paiement_fec.ipynb`](./data/prediction_delai_paiement_fec.ipynb)
+Notebook principal : [`prediction_delai_paiement_fec.ipynb`](📁data/prediction_delai_paiement_fec.ipynb)
 
 Ce notebook Jupyter présente toutes les étapes de travail :
 
@@ -54,7 +54,7 @@ Ce projet comprend aussi un **extrait visuel d’un dashboard** Power BI réalis
 - Indicateurs de gestion
 - Analyse par journaux ou périodes
 
-![Aperçu Dashboard Power BI](./data/dashboard.png)
+![Aperçu Dashboard Power BI](📁data/dashboard.png)
 
 ---
 
